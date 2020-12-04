@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: e43bf2fa25d58904ab3a00d405b89fc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6460279133377040049
+    second: SpaceBattleSprite (1)_0
+  - first:
+      213: -5307186999385613411
+    second: SpaceBattleSprite (1)_1
+  - first:
+      213: -3135142642926039343
+    second: SpaceBattleSprite (1)_2
+  - first:
+      213: 2114245181748012683
+    second: SpaceBattleSprite (1)_3
+  - first:
+      213: -5807425839723681982
+    second: SpaceBattleSprite (1)_4
+  - first:
+      213: -2297829192471107568
+    second: SpaceBattleSprite (1)_5
+  - first:
+      213: -6674161747843675400
+    second: SpaceBattleSprite (1)_6
+  - first:
+      213: 2370959215210900130
+    second: SpaceBattleSprite (1)_7
+  - first:
+      213: -2443794784974820577
+    second: SpaceBattleSprite (1)_8
+  - first:
+      213: -5786435954281390402
+    second: SpaceBattleSprite (1)_9
+  - first:
+      213: -6124222718193341214
+    second: SpaceBattleSprite (1)_10
+  - first:
+      213: -7783719298522234235
+    second: SpaceBattleSprite (1)_11
+  - first:
+      213: -9129437132325751996
+    second: SpaceBattleSprite (1)_12
+  - first:
+      213: 2014244566672378392
+    second: SpaceBattleSprite (1)_13
+  - first:
+      213: -5987151551528204895
+    second: SpaceBattleSprite (1)_14
+  - first:
+      213: -2486982418040349144
+    second: SpaceBattleSprite (1)_15
+  - first:
+      213: -6124180373450382684
+    second: SpaceBattleSprite (1)_16
+  - first:
+      213: 1152876677027921251
+    second: SpaceBattleSprite (1)_17
+  - first:
+      213: -5629724313316984744
+    second: SpaceBattleSprite (1)_18
+  - first:
+      213: 3714559312938867801
+    second: SpaceBattleSprite (1)_19
+  - first:
+      213: -6219266701095282058
+    second: SpaceBattleSprite (1)_20
+  - first:
+      213: -1932670205432699600
+    second: SpaceBattleSprite (1)_21
+  - first:
+      213: -7405524820610996367
+    second: SpaceBattleSprite (1)_22
+  - first:
+      213: -2014169847471448867
+    second: SpaceBattleSprite (1)_23
+  - first:
+      213: -1696779997876454536
+    second: SpaceBattleSprite (1)_24
+  - first:
+      213: 8933259786117071737
+    second: SpaceBattleSprite (1)_25
+  - first:
+      213: 252828530956537789
+    second: SpaceBattleSprite (1)_26
+  - first:
+      213: 9195063506655329109
+    second: SpaceBattleSprite (1)_27
+  - first:
+      213: 2287020356482601805
+    second: SpaceBattleSprite (1)_28
+  - first:
+      213: 5122372511184033349
+    second: SpaceBattleSprite (1)_29
+  - first:
+      213: -6754672999603269231
+    second: SpaceBattleSprite (1)_30
+  - first:
+      213: -2416073791831170558
+    second: SpaceBattleSprite (1)_31
+  - first:
+      213: -7212569817942875911
+    second: SpaceBattleSprite (1)_32
+  - first:
+      213: -2271612812040358806
+    second: SpaceBattleSprite (1)_33
+  - first:
+      213: -2275422252199108423
+    second: SpaceBattleSprite (1)_34
+  - first:
+      213: 5927472771763108418
+    second: SpaceBattleSprite (1)_35
+  - first:
+      213: 5763986261434579126
+    second: SpaceBattleSprite (1)_36
+  - first:
+      213: -8604492117416816112
+    second: SpaceBattleSprite (1)_37
+  - first:
+      213: -3216485379369695403
+    second: SpaceBattleSprite (1)_38
+  - first:
+      213: -8980766269769938030
+    second: SpaceBattleSprite (1)_39
+  - first:
+      213: 1515140246104073597
+    second: SpaceBattleSprite (1)_40
+  - first:
+      213: -5755400636366253300
+    second: SpaceBattleSprite (1)_41
+  - first:
+      213: 4270571687211803088
+    second: SpaceBattleSprite (1)_42
+  - first:
+      213: -3363753522827085481
+    second: SpaceBattleSprite (1)_43
+  - first:
+      213: 5269226303597014907
+    second: SpaceBattleSprite (1)_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4171313b5a7856a0800000000000000
+      internalID: -6460279133377040049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9c01fa851956b0800000000000000
+      internalID: -5307186999385613411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec630806cbd74d0800000000000000
+      internalID: -3135142642926039343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86eb228ace475d10800000000000000
+      internalID: 2114245181748012683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24768d3c7f0e76fa0800000000000000
+      internalID: -5807425839723681982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 46
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ac3c16887c10e0800000000000000
+      internalID: -2297829192471107568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa0746604d9063a0800000000000000
+      internalID: -6674161747843675400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa59728d657e020800000000000000
+      internalID: 2370959215210900130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1baf914795e51ed0800000000000000
+      internalID: -2443794784974820577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe528d482372bfa0800000000000000
+      internalID: -5786435954281390402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec65b4a2e3620ba0800000000000000
+      internalID: -6124222718193341214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ca34b98caaf390800000000000000
+      internalID: -7783719298522234235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 47
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44376784c49bd4180800000000000000
+      internalID: -9129437132325751996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a844fe2c804fb10800000000000000
+      internalID: 2014244566672378392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a58bba926d59eca0800000000000000
+      internalID: -5987151551528204895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e101adaa67c7dd0800000000000000
+      internalID: -2486982418040349144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2221cc56a820ba0800000000000000
+      internalID: -6124180373450382684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df414ca37dfff00800000000000000
+      internalID: 1152876677027921251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587c5980933fd1b0800000000000000
+      internalID: -5629724313316984744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c17d8b304cc8330800000000000000
+      internalID: 3714559312938867801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67adccde2e9b0b9a0800000000000000
+      internalID: -6219266701095282058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e33910b6cd25e0800000000000000
+      internalID: -1932670205432699600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a42c696a4a3990800000000000000
+      internalID: -7405524820610996367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc592cf13b3c04e0800000000000000
+      internalID: -2014169847471448867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf594f493d378e0800000000000000
+      internalID: -1696779997876454536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734acde17059fb70800000000000000
+      internalID: 8933259786117071737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf8fb8953a328300800000000000000
+      internalID: 252828530956537789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3951ba8d6b9f70800000000000000
+      internalID: 9195063506655329109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439b36a5e02dbf10800000000000000
+      internalID: 2287020356482601805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469950d8a2561740800000000000000
+      internalID: 5122372511184033349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19199b4d1b49242a0800000000000000
+      internalID: -6754672999603269231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a5ceefa1687ed0800000000000000
+      internalID: -2416073791831170558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0afc3e6fdc7eb90800000000000000
+      internalID: -7212569817942875911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64bb17de2c9970e0800000000000000
+      internalID: -2271612812040358806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b027af64831c60e0800000000000000
+      internalID: -2275422252199108423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7db0b41d924250800000000000000
+      internalID: 5927472771763108418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 57
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b83a0347facdff40800000000000000
+      internalID: 5763986261434579126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d8bcf104b69880800000000000000
+      internalID: -8604492117416816112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5578e61d69fbc53d0800000000000000
+      internalID: -3216485379369695403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b8d87e8a8ed5380800000000000000
+      internalID: -8980766269769938030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 17
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756ee9b60cd60510800000000000000
+      internalID: 1515140246104073597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0315595d95b020b0800000000000000
+      internalID: -5755400636366253300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 37
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a914b25e144b30800000000000000
+      internalID: 4270571687211803088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7593cef2efb8151d0800000000000000
+      internalID: -3363753522827085481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBattleSprite (1)_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 30
+        width: 2
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f6b03d76d002940800000000000000
+      internalID: 5269226303597014907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

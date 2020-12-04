@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eeb7c942c59358489f09cf9c8544828, type: 3}
+  m_Name: settings
+  m_EditorClassIdentifier: 
+  disableEverything: 0
+  connectedAnchorTexture: {fileID: 2800000, guid: f3e620b699c423a44a540e45b526b0b0, type: 3}
+  mainAnchorTexture: {fileID: 2800000, guid: 261668e3e1b3301479325610688bf3bb, type: 3}
+  lockedAnchorTexture: {fileID: 2800000, guid: 6a9799c60d7368f41b9e54871399b09b, type: 3}
+  hotAnchorTexture: {fileID: 2800000, guid: e0834cf76c353e54eadc2082f6c91a9b, type: 3}
+  lockButtonTexture: {fileID: 2800000, guid: f6f9ae7b70b94bf4986738c53724f6fe, type: 3}
+  unlockButtonTexture: {fileID: 2800000, guid: 0800896fa119a3941a91800fd2db9b6c, type: 3}
+  anchorScale: 0.5
+  anchorDisplayScale: 0.5
+  lockButtonScale: 0.5
+  anchorHoverColor: {r: 1, g: 1, b: 0.5, a: 0.125}
+  anchorsToMainBodyColor: {r: 1, g: 0, b: 0, a: 1}
+  anchorsToConnectedBodyColor: {r: 0, g: 1, b: 0, a: 1}
+  incorrectLimitsColor: {r: 1, g: 0.49655172, b: 0, a: 1}
+  correctLimitsColor: {r: 0.09839964, g: 0.9558824, b: 0, a: 0.7372549}
+  angleWidgetColor: {r: 1, g: 1, b: 1, a: 1}
+  hoverAngleColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  activeAngleColor: {r: 0.99607843, g: 0.68505746, b: 0.015686266, a: 1}
+  snapHighlightColor: {r: 0, g: 1, b: 1, a: 1}
+  angleLimitRadius: 30
+  angleHandleSize: 5
+  snapAngle: 15
+  limitsAreaColor: {r: 0.26491347, g: 0.77219576, b: 0.7764706, a: 0.11764706}
+  incorrectLimitsArea: {r: 1, g: 0.5, b: 0, a: 0.23529412}
+  ringDisplayMode: 2
+  mainRingColor: {r: 0, g: 1, b: 0, a: 1}
+  connectedRingColor: {r: 0.5679065, g: 0.5137255, b: 1, a: 1}
+  minLimitColor: {r: 0, g: 0.47058824, b: 1, a: 1}
+  maxLimitColor: {r: 0, g: 1, b: 1, a: 1}
+  showAdvancedOptions: 1
+  showConnectedJoints: 1
+  drawLinesToBodies: 1
+  connectedJointTransparency: 0.25
+  highlightSnapPositions: 1
+  snapDistance: 20

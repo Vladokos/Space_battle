@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 6e91272288e7f694ca99a9e3dcb47d50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7355058858834716087
+    second: shto-to_0
+  - first:
+      213: 5050810310294780920
+    second: shto-to_1
+  - first:
+      213: 1319788114912911999
+    second: shto-to_2
+  - first:
+      213: -939116421757490052
+    second: shto-to_3
+  - first:
+      213: 7901129028795836909
+    second: shto-to_4
+  - first:
+      213: -4000089260392721765
+    second: shto-to_5
+  - first:
+      213: -4313284266948525559
+    second: shto-to_6
+  - first:
+      213: -1478438982016696875
+    second: shto-to_7
+  - first:
+      213: 8145416620505402386
+    second: shto-to_8
+  - first:
+      213: 7507948358899020221
+    second: shto-to_9
+  - first:
+      213: 654766747624736073
+    second: shto-to_10
+  - first:
+      213: 5209062236176766221
+    second: shto-to_11
+  - first:
+      213: 5271150233123279211
+    second: shto-to_12
+  - first:
+      213: 302686130041540711
+    second: shto-to_13
+  - first:
+      213: 3129489864112513889
+    second: shto-to_14
+  - first:
+      213: 6432891038771855547
+    second: shto-to_15
+  - first:
+      213: -629037978724597437
+    second: shto-to_16
+  - first:
+      213: 2360961124905380995
+    second: shto-to_17
+  - first:
+      213: -4880294261208476439
+    second: shto-to_18
+  - first:
+      213: 1766872867801993559
+    second: shto-to_19
+  - first:
+      213: 8209475781794456464
+    second: shto-to_20
+  - first:
+      213: 5031436879554216424
+    second: shto-to_21
+  - first:
+      213: -3914805591188531688
+    second: shto-to_22
+  - first:
+      213: 5166780024261503831
+    second: shto-to_23
+  - first:
+      213: -5290444724592739749
+    second: shto-to_24
+  - first:
+      213: 6874041409729526125
+    second: shto-to_25
+  - first:
+      213: -8632746418610763442
+    second: shto-to_22
+  - first:
+      213: 206813775955851686
+    second: shto-to_23
+  - first:
+      213: 8658333498012964426
+    second: shto-to_24
+  - first:
+      213: -3220387645471448189
+    second: shto-to_26
+  - first:
+      213: -6645568358056660965
+    second: shto-to_27
+  - first:
+      213: 6333991760673217065
+    second: shto-to_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shto-to_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 855
+        width: 224
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5eee6301b621660800000000000000
+      internalID: 7355058858834716087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 927
+        width: 169
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb30058735181640800000000000000
+      internalID: 5050810310294780920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 809
+        width: 231
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72aa284c44d05210800000000000000
+      internalID: 1319788114912911999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 735
+        width: 227
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca86e079697f2f0800000000000000
+      internalID: -939116421757490052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 963
+        width: 212
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de927ed5df276ad60800000000000000
+      internalID: 7901129028795836909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 920
+        width: 213
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92df64d204dc78c0800000000000000
+      internalID: -4000089260392721765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 877
+        width: 216
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902804ddfc22424c0800000000000000
+      internalID: -4313284266948525559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 835
+        width: 223
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddfdc634978b7be0800000000000000
+      internalID: -1478438982016696875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 789
+        width: 231
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c89c492455a0170800000000000000
+      internalID: 8145416620505402386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 748
+        width: 218
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1372ce047913860800000000000000
+      internalID: 7507948358899020221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 702
+        width: 209
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94509ea43e2361900800000000000000
+      internalID: 654766747624736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 672
+        width: 215
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d738418e4a4840800000000000000
+      internalID: 5209062236176766221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 634
+        width: 214
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d7039533e62940800000000000000
+      internalID: 5271150233123279211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 587
+        width: 211
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760509b7e6b533400800000000000000
+      internalID: 302686130041540711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 555
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ac9e537e2e6b20800000000000000
+      internalID: 3129489864112513889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 551
+        width: 348
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04acc1158364950800000000000000
+      internalID: 6432891038771855547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 471
+        width: 212
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34104e78a453547f0800000000000000
+      internalID: -629037978724597437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 479
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ced7a52a1d3c020800000000000000
+      internalID: 2360961124905380995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 686
+        width: 226
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49a41f936b54cb0800000000000000
+      internalID: -4880294261208476439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_19
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 362
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7511d901381358810800000000000000
+      internalID: 1766872867801993559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 44
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e7065abaede170800000000000000
+      internalID: 8209475781794456464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_21
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 236
+        width: 188
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e101ab2f2143d540800000000000000
+      internalID: 5031436879554216424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 477
+        width: 408
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69f04eed30856f50800000000000000
+      internalID: 6874041409729526125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 498
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e490eaaded2523880800000000000000
+      internalID: -8632746418610763442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 309
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a971829800ced200800000000000000
+      internalID: 206813775955851686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 299
+        width: 181
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469def4174982870800000000000000
+      internalID: 8658333498012964426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_26
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 390
+        width: 190
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3832e90bf72ee43d0800000000000000
+      internalID: -3220387645471448189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 461
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f47fb9c236c3a0800000000000000
+      internalID: -6645568358056660965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shto-to_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 458
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9d2982fbd6e750800000000000000
+      internalID: 6333991760673217065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
